@@ -1,10 +1,10 @@
-# 📚 Literalura
+# Literalura
 
 **Literalura** es una aplicación Java de consola desarrollada con Spring Boot para gestionar libros y autores, consumiendo datos desde la API de [Gutenberg](https://gutendex.com/).  
 Permite buscar libros, filtrar por idioma, almacenar autores y consultar autores vivos en un año determinado.
 
 ---
-## 📦 Tecnologías
+## Tecnologías
 
 - Java 17
 - Spring Boot 3
@@ -15,7 +15,7 @@ Permite buscar libros, filtrar por idioma, almacenar autores y consultar autores
 
 ---
 
-## 🏹 Funcionalidades
+## Funcionalidades
 
 La clase `Principal` implementa todas las funcionalidades del proyecto:
 
@@ -43,7 +43,7 @@ La clase `Principal` implementa todas las funcionalidades del proyecto:
 
 ---
 
-## 🗂 Estructura del proyecto
+## Estructura del proyecto
 
 - `model/`  
   Contiene las clases que representan las entidades y modelos de datos de la aplicación:
@@ -73,7 +73,7 @@ La clase `Principal` implementa todas las funcionalidades del proyecto:
 ---
 
 
-## ⚙️ Configuraciones
+## Configuraciones
 
 Antes de ejecutar la aplicación, asegúrate de configurar correctamente la base de datos y otros parámetros.
 
